@@ -1,7 +1,13 @@
-let nombreAlumno = 'Nacho'
+//Guardo los botones en variables correspondientes
+let botonMayor = document.querySelector('#mayor')
+let botonMenores = document.querySelector('#menor')
+let botonPares = document.querySelector('#pares')
 
-let apellidoAlumno = 'Sosa'
+//Arreglo de números
+let numeros = [120,20,40,33,55,99]
 
-console.log('Bienvenido '+ nombreAlumno + apellidoAlumno)
+//Obtener el mayor número del arreglo
 
-console.log('Hola')
+//Obtener el menor número del arreglo
+
+//Mostrar en una alerta los números pares del arreglo
